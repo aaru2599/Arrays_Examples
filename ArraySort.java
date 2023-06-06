@@ -1,4 +1,4 @@
-package com.Arrays;
+//sort the array based on number.
 
 import java.util.Arrays;
 
