@@ -1,4 +1,4 @@
-package com.Arrays;
+//Accept the elements of an array and search an element that present in which index position
 
 import java.util.Scanner;
 
